@@ -1,9 +1,9 @@
-#### Hello there! 👋
-## 🐬 I'm Ivan and this is my space 🐬
+# Hello there! 👋
+### 🐬 I'm Ivan and this is my space 🐬
 
-### My contacts:
+## My contacts:
 📧 ivan.hryakow@gmail.com
-# Social networks:
+### Social networks:
 - [VK](https://vk.com/cyborob)
 - [Telegram](https://t.me/IvanHryakow)
 
