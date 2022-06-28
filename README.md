@@ -1,7 +1,7 @@
-### Hello there! 👋
+#### Hello there! 👋
 ## 🐬 I'm Ivan and this is my space 🐬
 
-## My contacts:
+### My contacts:
 📧 ivan.hryakow@gmail.com
 # Social networks:
 - [VK](https://vk.com/cyborob)
