@@ -13,7 +13,7 @@
 
 [Russian version](https://github.com/Dolphin-in-river/Dolphin-in-river/blob/main/CV(Russian).pdf)
 -->
-
+[Russian version](https://github.com/Dolphin-in-river/Dolphin-in-river/blob/main/Хряков, Резюме.pdf)
 ## My achievements:
 
 <!--
