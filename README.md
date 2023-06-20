@@ -8,10 +8,11 @@
 - [Telegram](https://t.me/IvanHryakow)
 
 ## My CV:
+<!--
 [English version](https://github.com/Dolphin-in-river/Dolphin-in-river/blob/main/CV.pdf)
 
 [Russian version](https://github.com/Dolphin-in-river/Dolphin-in-river/blob/main/CV(Russian).pdf)
-
+-->
 
 ## My achievements:
 
