@@ -19,7 +19,7 @@
 <!--
 [![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolphin-in-river)](https://github.com/Dolphin-in-river/github-readme-stats)
 -->
-[![My stats](https://github-readme-stats.vercel.app/api?username=Dolphin-in-river&count_private=true&show_icons=true&theme=nord)]()
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolphin-in-river&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
