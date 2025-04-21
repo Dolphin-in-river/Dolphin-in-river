@@ -5,7 +5,7 @@
 📧 ivan.hryakow@gmail.com
 ### Social networks:
 - [VK](https://vk.com/cyborob)
-- [Telegram](https://t.me/IvanHryakow)
+- [Telegram](https://t.me/IvanKhhh)
 
 ## My CV:
 <!--
